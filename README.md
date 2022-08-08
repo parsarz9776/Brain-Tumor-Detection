@@ -1,6 +1,4 @@
-# Brain-Tumor-Detection
-#using MRI images
-#detection and classification using CNN
+# Brain-Tumor-Detection- 
 Many people throughout the world are suffering from brain tumors and unfortunately, diagnostic errors play a significant role in patient deaths.
 Also, a significant portion of the world population lacks adequate access to radiology specialists.
 Although tumor detection and classification are completely challenging task and takes up too much time, artificial intelligence (AI) based methods show high potential in diagnosis purposes. 
